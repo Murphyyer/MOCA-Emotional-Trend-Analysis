@@ -17,4 +17,4 @@ This project explores emotional narratives within oral history interviews from t
 This project was presented as a lightning talk at the NEASIS&T 2025 Annual Conference, \"Voices Through Data.\"
 
 ## Demo
-
+https://murphyyer.github.io/MOCA-Emotional-Trend-Analysis/emotional_trend_interactive.html
